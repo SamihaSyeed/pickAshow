@@ -1,0 +1,41 @@
+.show-image{
+    height: 500px;
+    margin: 0 auto;
+}
+
+.show-titles{
+    font-size:20px;
+    font-weight:bold;
+    padding-bottom: 10px;
+}
+.show-info{
+    background-color: rgba(255,255,255,0.1);
+    width:250px;
+    padding:20px;
+    text-align: center;
+    margin:0 auto
+}
+
+.show-info-text{
+    padding:5px;
+}
+
+.show-details{
+    margin: 50px;
+    margin-bottom: 10px;
+}
+
+
+ 
+/* .row{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0!important;
+} */
+
+.loading-screen{
+    padding: 50px;
+    font-weight: bold;
+
+}
